@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>885042559990-g8l2k57tcqojap71du19mvphu6v52fn0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.885042559990-g8l2k57tcqojap71du19mvphu6v52fn0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC10wGx1SbZW0zVvDeHbE-vgqpgINexeok</string>
+	<key>GCM_SENDER_ID</key>
+	<string>885042559990</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.meeja</string>
+	<key>PROJECT_ID</key>
+	<string>meeja-3857d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meeja-3857d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:885042559990:ios:be2134aaea21d523a3a5d7</string>
+</dict>
+</plist>
